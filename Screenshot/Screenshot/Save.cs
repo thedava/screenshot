@@ -9,7 +9,7 @@ namespace Screenshot
     {
         const string Folder = "Screenshots";
         const string FileName = "Screenshot";
-        const string DateFormat = "yyyy-MM-dd";
+        const string DateFormat = "yyyyMMdd_HHmmss";
         const string Extension = ".png";
 
         private bool Done { get; set; }
