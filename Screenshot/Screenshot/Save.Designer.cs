@@ -77,7 +77,6 @@
             this.MaximizeBox = false;
             this.MinimizeBox = false;
             this.Name = "Save";
-            this.ShowInTaskbar = false;
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Screenshot";
             this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.Save_FormClosing);
