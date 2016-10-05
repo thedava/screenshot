@@ -10,5 +10,5 @@ This program will save every screenshot you make (using the "Prt Scrn" key on yo
 
 ## Requirements
 
-- Windows (Mono compatibility not tested)
+- Windows _(Mono compatibility not tested)_
 - At least .NET Framework 4.5.2
