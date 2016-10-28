@@ -1,5 +1,7 @@
 # screenshot
 
+[![Build Status](https://travis-ci.org/thedava/screenshot.svg?branch=master)](https://travis-ci.org/thedava/screenshot)
+
 A program for automatically saving screenshots
 
 ## Description
